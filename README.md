@@ -1,5 +1,5 @@
 ## Private Docker Repository ##
----
+
 
 To build the Image.
 
@@ -12,7 +12,7 @@ To run the cointainer use
 ```docker
 docker-compose up
 ```
----
+
 
 ## How it works
 
