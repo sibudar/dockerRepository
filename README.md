@@ -14,10 +14,10 @@ docker-compose up
 ```
 
 
-## How it works
+### How it works
 
-### Repository sits on port 5000 
-### The UI image browser sits on port 8080
+Repository sits on port 5000 
+The UI image browser sits on port 8080
 
 To pull image
 
